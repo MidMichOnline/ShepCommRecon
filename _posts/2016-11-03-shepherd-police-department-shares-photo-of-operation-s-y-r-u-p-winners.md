@@ -4,13 +4,16 @@ post_title: >
   Shepherd Police Department shares photo
   of Operation S.Y.R.U.P. Winners
 author: Jon Morgan
-post_date: 2016-11-03 01:38:51
+post_date: 2016-11-03 01:46:30
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org/commrecon?p=31&preview=true&preview_id=31'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/commrecon/2016/11/03/shepherd-police-department-shares-photo-of-operation-s-y-r-u-p-winners/
+published: true
 wide_assets:
   - ""
+custom_sidebar:
+  - none
 tags: [ ]
 categories:
   - Uncategorized
