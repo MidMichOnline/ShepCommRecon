@@ -6,7 +6,7 @@ post_date: 2016-11-03 00:03:00
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdhistory.org/commrecon/submit-story/
+  http://www.shepherdhistory.org/shepherdsunflower/submit-story/
 published: true
 wide_assets:
   - ""
@@ -15,4 +15,4 @@ custom_sidebar:
 tags: [ ]
 categories: [ ]
 ---
-contributer_contribute
+[contributer_contribute]
