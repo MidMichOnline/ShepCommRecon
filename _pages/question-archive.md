@@ -6,7 +6,7 @@ post_date: 2016-11-01 03:16:31
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdhistory.org/commrecon/question-archive/
+  http://www.shepherdhistory.org/shepherdsunflower/question-archive/
 published: true
 wide_assets:
   - ""

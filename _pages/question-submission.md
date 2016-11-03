@@ -6,7 +6,7 @@ post_date: 2016-11-01 03:15:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdhistory.org/commrecon/question-submission/
+  http://www.shepherdhistory.org/shepherdsunflower/question-submission/
 published: true
 wide_assets:
   - ""

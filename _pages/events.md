@@ -6,7 +6,7 @@ post_date: 2016-10-30 18:03:05
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdhistory.org/commrecon/events/
+  http://www.shepherdhistory.org/shepherdsunflower/events/
 published: true
 wide_assets:
   - ""
