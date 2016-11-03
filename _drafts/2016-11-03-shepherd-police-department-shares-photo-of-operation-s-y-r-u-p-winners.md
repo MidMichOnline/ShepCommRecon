@@ -15,3 +15,4 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
+<img src="http://www.shepherdhistory.org/commrecon/wp-content/uploads/sites/8/2016/11/image-1-336x252.png" alt="image-1" width="336" height="252" class="alignnone size-medium wp-image-32" />
